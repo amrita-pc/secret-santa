@@ -1,3 +1,6 @@
+check this code later
+https://git.sr.ht/~moviuro/moviuro.bin/tree/master/secret-santa
+
 #!/bin/bash
 
 #awk 'END{print NR}

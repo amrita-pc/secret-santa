@@ -1,6 +1,3 @@
-check this code later
-https://git.sr.ht/~moviuro/moviuro.bin/tree/master/secret-santa
-
 # get index
 #[AMRITAMI-8S2U6|Mon Nov 30|03:00:35]:~$ awk 'NR==2{print $1}' /tmp/line-no-secret-santa
 #1
